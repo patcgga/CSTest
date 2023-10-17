@@ -1,0 +1,4 @@
+D:\CSTest\obj\Debug\net7.0\CSTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSTest\obj\Debug\net7.0\CSTest.AssemblyInfoInputs.cache
+D:\CSTest\obj\Debug\net7.0\CSTest.AssemblyInfo.cs
+D:\CSTest\obj\Debug\net7.0\CSTest.csproj.CoreCompileInputs.cache
