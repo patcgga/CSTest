@@ -12,3 +12,17 @@ D:\C# Test\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\refint\5.�
 D:\C# Test\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.pdb
 D:\C# Test\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.genruntimeconfig.cache
 D:\C# Test\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\ref\5.完整的骰子遊戲.dll
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\bin\Debug\net7.0\5.完整的骰子遊戲.exe
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\bin\Debug\net7.0\5.完整的骰子遊戲.deps.json
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\bin\Debug\net7.0\5.完整的骰子遊戲.runtimeconfig.json
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\bin\Debug\net7.0\5.完整的骰子遊戲.dll
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\bin\Debug\net7.0\5.完整的骰子遊戲.pdb
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.AssemblyInfoInputs.cache
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.AssemblyInfo.cs
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.csproj.CoreCompileInputs.cache
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.dll
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\refint\5.完整的骰子遊戲.dll
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.pdb
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\5.完整的骰子遊戲.genruntimeconfig.cache
+D:\CSTest\IF陳述式練習\5.完整的骰子遊戲\obj\Debug\net7.0\ref\5.完整的骰子遊戲.dll

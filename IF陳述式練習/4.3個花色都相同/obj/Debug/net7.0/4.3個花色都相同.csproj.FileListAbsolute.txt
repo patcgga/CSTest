@@ -26,3 +26,17 @@ D:\C# Test\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\refint\4.3�
 D:\C# Test\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.pdb
 D:\C# Test\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.genruntimeconfig.cache
 D:\C# Test\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\ref\4.3個花色都相同.dll
+D:\CSTest\IF陳述式練習\4.3個花色都相同\bin\Debug\net7.0\4.3個花色都相同.exe
+D:\CSTest\IF陳述式練習\4.3個花色都相同\bin\Debug\net7.0\4.3個花色都相同.deps.json
+D:\CSTest\IF陳述式練習\4.3個花色都相同\bin\Debug\net7.0\4.3個花色都相同.runtimeconfig.json
+D:\CSTest\IF陳述式練習\4.3個花色都相同\bin\Debug\net7.0\4.3個花色都相同.dll
+D:\CSTest\IF陳述式練習\4.3個花色都相同\bin\Debug\net7.0\4.3個花色都相同.pdb
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.AssemblyInfoInputs.cache
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.AssemblyInfo.cs
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.csproj.CoreCompileInputs.cache
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.dll
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\refint\4.3個花色都相同.dll
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.pdb
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\4.3個花色都相同.genruntimeconfig.cache
+D:\CSTest\IF陳述式練習\4.3個花色都相同\obj\Debug\net7.0\ref\4.3個花色都相同.dll

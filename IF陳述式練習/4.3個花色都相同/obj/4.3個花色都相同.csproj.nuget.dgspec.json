@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Test\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj": {}
+    "D:\\CSTest\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj": {}
   },
   "projects": {
-    "D:\\C# Test\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj": {
+    "D:\\CSTest\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Test\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj",
+        "projectUniqueName": "D:\\CSTest\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj",
         "projectName": "4.3個花色都相同",
-        "projectPath": "D:\\C# Test\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj",
+        "projectPath": "D:\\CSTest\\IF陳述式練習\\4.3個花色都相同\\4.3個花色都相同.csproj",
         "packagesPath": "C:\\Users\\patcg\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Test\\IF陳述式練習\\4.3個花色都相同\\obj\\",
+        "outputPath": "D:\\CSTest\\IF陳述式練習\\4.3個花色都相同\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patcg\\AppData\\Roaming\\NuGet\\NuGet.Config",

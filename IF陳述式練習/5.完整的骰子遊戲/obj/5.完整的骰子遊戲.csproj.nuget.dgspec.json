@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Test\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj": {}
+    "D:\\CSTest\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj": {}
   },
   "projects": {
-    "D:\\C# Test\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj": {
+    "D:\\CSTest\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Test\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj",
+        "projectUniqueName": "D:\\CSTest\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj",
         "projectName": "5.完整的骰子遊戲",
-        "projectPath": "D:\\C# Test\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj",
+        "projectPath": "D:\\CSTest\\IF陳述式練習\\5.完整的骰子遊戲\\5.完整的骰子遊戲.csproj",
         "packagesPath": "C:\\Users\\patcg\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Test\\IF陳述式練習\\5.完整的骰子遊戲\\obj\\",
+        "outputPath": "D:\\CSTest\\IF陳述式練習\\5.完整的骰子遊戲\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
