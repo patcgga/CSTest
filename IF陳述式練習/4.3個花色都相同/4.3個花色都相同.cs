@@ -27,5 +27,5 @@ if (total >= 15)
 
 if (total < 15)
 {
-    Console.WriteLine("Sorry, you lose1.");
+    Console.WriteLine("Sorry, you lose.");
 }
