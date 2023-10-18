@@ -9,8 +9,8 @@
 
 //當訂閱天數 ==  0天時，則提醒用戶"Your subscription has expired."(訂閱過期)
 Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
+int daysUntilExpiration = random.Next(12); //宣告可變數 到期天數隨機0~11
+int discountPercentage = 0; //宣告可變數 優惠初始為0
 
 Console.WriteLine(daysUntilExpiration);
 
