@@ -1,6 +1,6 @@
-﻿# 主目錄:CSTest<>
+﻿# [主目錄:CSTest](https://github.com/patcgga/CSTest/tree/main)  
 
-# 測試專用<>
+# [測試專用](https://github.com/patcgga/CSTest/tree/main/CsharpProjects/TestProject)
   CsharpProjects/TestProject
 
 ---------------------------
