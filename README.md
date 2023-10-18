@@ -16,6 +16,6 @@
   >9.[專案練習1_訂閱天數及折扣提醒](https://github.com/patcgga/CSTest/tree/main/IF%E9%99%B3%E8%BF%B0%E5%BC%8F%E7%B7%B4%E7%BF%92/9.%E5%B0%88%E6%A1%88%E7%B7%B4%E7%BF%921)
 
 -------------------------------
-# 陣列 及 froeach<>
+# 陣列 froeach<>
 -------------------------------
 # [Math的 MAX 最大值應用](https://github.com/patcgga/CSTest/tree/main/Math.max)
