@@ -4,7 +4,7 @@
   CsharpProjects/TestProject
 
 ---------------------------
-# IF陳述式練習<>
+# IF陳述式練習<https://github.com/patcgga/CSTest/tree/main/IF%E9%99%B3%E8%BF%B0%E5%BC%8F%E7%B7%B4%E7%BF%92>
   >第一階段  
   >1.擲骰子/總和判斷  
   >2.判斷字元  
