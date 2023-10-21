@@ -1,12 +1,16 @@
 ﻿//迭代,迴圈
-/*string[] names = {"Rowena", "Robin", "Bao" };
+Console.WriteLine("---程式碼1------------迭代,迴圈--------------");
+string[] names = {"Rowena", "Robin", "Bao" };
 foreach (string name in names)
 {
     Console.WriteLine(name);
 }
-*/
+
+
 
 // 加總,疊加,迴圈
+Console.WriteLine("---程式碼2-----------加總,疊加,迴圈----------");
+
 int[] inventory = {200, 450, 700, 175, 250};
 int sum = 0;
 int bin = 0;

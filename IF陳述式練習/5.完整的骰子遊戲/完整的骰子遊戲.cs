@@ -1,6 +1,6 @@
 ﻿using System;
 
-class CSTest
+class Program
 {
     static void Main()
     {
